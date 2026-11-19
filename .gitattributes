@@ -1,0 +1,11 @@
+* text=auto
+
+# Archivos binarios del proyecto
+*.png binary
+*.mp3 binary
+*.aif binary
+*.dll binary
+*.pdb binary
+*.unity binary
+*.prefab binary
+*.asset binary
