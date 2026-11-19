@@ -6,6 +6,10 @@ esquivas obstáculos, cuidas tus **3 vidas** y corres contra un cronómetro mien
 > Proyecto académico del curso de **Mecánicas de Juego** (guías de la Semana S08).
 > **Autor:** Joel Ocaño
 
+## ▶ Jugar en línea
+
+**https://devil-wheels.vercel.app** — se juega directamente en el navegador (WebGL), sin instalar nada.
+
 ---
 
 ## Cómo se juega
@@ -78,6 +82,7 @@ docs/                        Documentación adicional
 | [docs/SCRIPTS.md](docs/SCRIPTS.md) | Qué hace cada script y cómo se conectan |
 | [docs/HERRAMIENTAS_EDITOR.md](docs/HERRAMIENTAS_EDITOR.md) | Menús `Tools` que configuran la escena |
 | [docs/ESTADO.md](docs/ESTADO.md) | Qué está hecho, qué falta y decisiones tomadas |
+| [docs/PUBLICACION.md](docs/PUBLICACION.md) | Cómo compilar el juego para web (WebGL) y desplegarlo en Vercel |
 
 ## Créditos
 

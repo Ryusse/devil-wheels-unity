@@ -13,6 +13,7 @@
 - [x] Game Over con metros recorridos y botón **REINICIAR** en español.
 - [x] Menú de inicio con título, controles, botón **INICIAR JUEGO** y nombre del autor.
 - [x] Migración del proyecto de Unity 5.6.2 a Unity 6.
+- [x] Compilación para **WebGL** y publicación en Vercel: https://devil-wheels.vercel.app (ver [PUBLICACION.md](PUBLICACION.md)).
 
 ## Pendiente / limitaciones
 
@@ -23,7 +24,7 @@
       en `Cronometro`).
 - [ ] Los colliders de borde (`LimiteR`, `LimiteD`) no generan sonido: el carro es *Kinematic* y no recibe
       colisión con colliders estáticos.
-- [ ] Publicación del juego (WebGL), pantallazo y video: fuera del alcance de este repositorio por ahora.
+- [ ] Pantallazo y video demostrativo: fuera del alcance de este repositorio por ahora.
 
 ## Decisiones tomadas
 
